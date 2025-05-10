@@ -3,5 +3,5 @@
 
 - 👋 Hi, I’m [@lyc280705](https://github.com/lyc280705)
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning [![Python](https://img.shields.io/badge/Python-black?logo=python)](https://www.python.org)
-- 🎯 I'm contributing to [@west2-online](https://github.com/west2-online-reserve/collection-python)
+- 🎉 I'm familiar with [![Langchain](https://img.shields.io/badge/Langchain-%231C3C3C?logo=langchain)](https://github.com/langchain-ai/langchain)
+- 🌱 I’m currently learning Reinforcement Learning
